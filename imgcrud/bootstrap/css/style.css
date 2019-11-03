@@ -1,0 +1,93 @@
+
+
+.card{
+
+
+	width:1000px;
+	color:maroon;
+}
+
+
+
+h3{
+
+
+	color: green;
+}
+
+
+
+h1{
+	color: red;
+	text-transform: uppercase;
+}
+
+
+h5{
+
+	color: blue;
+	text-transform: uppercase;
+}
+
+
+
+
+
+
+.post-date{
+
+	background-color:orange;
+	padding: 4px;
+	margin:3px 0;
+	display:block;
+}
+
+
+
+ img{
+
+	width: 1300px;
+}
+
+
+.post-thumb{
+
+	width:50%;
+}
+
+
+.user{
+      position: absolute;
+      top:100px;
+      left:50px;
+      width: 1300px;
+      height: auto;
+}
+
+
+
+.register{position: absolute;
+      top:100px;
+      left:500px;
+      background-color:
+      width: 650px;
+      height:500px; 
+
+
+
+
+}
+.pagination-links{
+	margin:30px 0;
+}
+
+
+a.pagination-link{
+	padding: 8px 13px;
+	margin:5px;
+	background:white;
+	border:2px red solid;
+	color: blue;
+	font-style: bold;
+	font-size:10pt;
+}
